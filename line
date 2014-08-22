@@ -2,3 +2,6 @@
 #include <math.h>
 #include <stdio.h>
 
+GLint xOne,yOne,Xtwo,yTwo
+void resize(int,int);
+void setPixel(GLint,GLint);
