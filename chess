@@ -1,4 +1,3 @@
-#include "chess.h"
 #include <glut.h>
 #include<math.h>
 GLint start_x=50,start_y=40,end_x=start_x+80,end_y=start_y+80;
